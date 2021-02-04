@@ -1,0 +1,10 @@
+// TODO
+
+subscribe to conversation events in python
+
+conversation class in js:
+  list of events
+
+conv box widget component thing take conv info:
+  renders list of events
+  conversation box fire socket event with conv id and text to send message
